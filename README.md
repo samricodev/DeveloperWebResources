@@ -6,6 +6,7 @@
     <li>Animaciones gratis https://www.opendoodles.com/</li>
     <li>Recortador del peso en imágenes https://picresize.com/</li>
     <li>Ilustraciones gratis https://undraw.co/illustrations</li>
+    <li>Paletas de colores https://www.canva.com/colors/color-wheel/</li>
   </ul>
   <p>En espera de nuevos recursos...</p>
 </div>
